@@ -12,6 +12,6 @@ Now navigate to EmBomber directory
 
 cd EmBomber
 
-Now you can run EmBomber
+Now you can run sarbomber
 
 python sarbomber.py
